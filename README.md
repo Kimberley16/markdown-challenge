@@ -2,7 +2,7 @@
 # markdown-challenge
 
 # Kimberley #
-![My head](\markdown-challenge\profilmarkdown.jpg)
+![My head](/markdown-challenge/profilmarkdown.jpg)
 **If you want something that you never had, do something that you never do** 
 ## Just a girl who wanna learn ##
 | birthday | favorite color | favorite food | pineaple on pizza |
